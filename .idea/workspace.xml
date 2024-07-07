@@ -53,7 +53,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "jehanBr",
-    "last_opened_file_path": "G:/HelloProject",
+    "last_opened_file_path": "E:/myPro",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +72,7 @@
       <workItem from="1720342372253" duration="516000" />
       <workItem from="1720342908866" duration="66000" />
       <workItem from="1720343265648" duration="618000" />
+      <workItem from="1720352290658" duration="1000" />
     </task>
     <servers />
   </component>
